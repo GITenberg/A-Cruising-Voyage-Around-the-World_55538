@@ -1,5 +1,8 @@
 _repo: A-Cruising-Voyage-Around-the-World_55538
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55538-h/images/cover.jpg
 creator:
   author:
     agent_name: Rogers, Woodes
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '42252'
     url: http://www.gutenberg.org/2009/agents/42252
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55538#A-Cruising-Voyage-Around-the-World
 gutenberg_issued: '2017-09-13'
 gutenberg_type: Text
 identifiers:
